@@ -71,7 +71,7 @@ jarvis_assistant/
 ```
 
 ## Clone the repository
-```
+```bash
 
 
 # Clone the repository
@@ -88,5 +88,6 @@ GEMINI_API_KEY=your_api_key_here
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
