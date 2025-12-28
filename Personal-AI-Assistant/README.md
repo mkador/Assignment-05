@@ -75,7 +75,7 @@ jarvis_assistant/
 
 
 # Clone the repository
-git clone 
+git clone https://github.com/mkador/Assignment-05.git
 
 # Navigate to the project directory
 cd Persomal-AI-Assistant
@@ -88,4 +88,5 @@ GEMINI_API_KEY=your_api_key_here
 
 # Run the Streamlit app
 streamlit run app.py
+
 
