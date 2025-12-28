@@ -64,3 +64,28 @@ jarvis_assistant/
 ├── .env                       # API key (ignored in GitHub)
 ├── requirements.txt
 └── README.md
+
+
+
+
+```
+
+## Clone the repository
+```
+
+
+# Clone the repository
+git clone 
+
+# Navigate to the project directory
+cd Persomal-AI-Assistant
+
+# Install required dependencies
+pip install -r requirements.txt
+
+# Add your Gemini API key in .env file
+GEMINI_API_KEY=your_api_key_here
+
+# Run the Streamlit app
+streamlit run app.py
+
