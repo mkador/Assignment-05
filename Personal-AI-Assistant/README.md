@@ -1,5 +1,5 @@
 # Personal AI Assistant (Gemini API + OOP + Streamlit)
-
+# video link: https://drive.google.com/file/d/1gJeYeUS5ViFFRr1NG8AlySOyTyqOKlth/view?usp=sharing
 ## 🎯 Objective
 
 The objective of this project is to design and develop a **Personal AI Assistant** that:
@@ -88,6 +88,7 @@ GEMINI_API_KEY=your_api_key_here
 
 # Run the Streamlit app
 streamlit run app.py
+
 
 
 
